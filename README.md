@@ -147,10 +147,7 @@ The API layer is not the center of the early project. It is only a boundary laye
 ```text
 shootperfect-core/
   cmd/
-    shootperfect-core/
-      main.go
-
-    shootperfect-analyze/
+    shootperfect/
       main.go
 
   internal/
